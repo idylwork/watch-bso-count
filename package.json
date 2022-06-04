@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node src/main.mjs"
+  },
+  "dependencies": {
+    "dayjs": "^1.10.4",
+    "jsdom": "^16.5.3",
+    "node-fetch": "^2.6.1",
+    "node-notifier": "^9.0.1"
+  },
+  "license": "UNLICENSED",
+  "private": true
+}
